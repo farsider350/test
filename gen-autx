@@ -1,0 +1,19 @@
+algorithm: x16r
+pzTimestamp: GenixMain
+pubkey: 03289c0933f7ed53fc996de0c252cd6bbf9e9b8161dcda7615c2503dbd5d48f02bdb72bd216af26b6815e0b2f50381100916a7eb7b1a88aeb8debb0803250d8401
+bits: 504365040
+time: 1590304317
+merkle root hash: 1e20f03a492282a0b75cdbe2ea52944e11c9a425cb149c44e561aa2aae33a347
+Searching for genesis hash...
+nonce: 2085774845
+genesis hash: 00000c467cdd3b31fe2192b58950ff6e21170ad24c16eb72dde1ab94a257bc10
+
+algorithm: x16r
+pzTimestamp: GenixMain
+pubkey: 03289c0933f7ed53fc996de0c252cd6bbf9e9b8161dcda7615c2503dbd5d48f02bdb72bd216af26b6815e0b2f50381100916a7eb7b1a88aeb8debb0803250d8401
+bits: 504365040
+time: 1590304529
+merkle root hash: 1e20f03a492282a0b75cdbe2ea52944e11c9a425cb149c44e561aa2aae33a347
+Searching for genesis hash...
+nonce: 2085344586
+genesis hash: 000005630aad8470b8394349d60f90711ebb57939659da34951c438b7e7765fa
