@@ -18,3 +18,15 @@ merkle root hash: e17df2500d281c354c82e9996999fb06f2c41594f29d81f712720a4e695f88
 Searching for genesis hash...
 nonce: 4219891
 genesis hash: 00000784283cca131579f70ced5eaf8ecc2b58ad8b1f4f722e97c5e707fef61a
+
+
+
+algorithm: x11
+pzTimestamp: AUTRADEX
+pubkey: 04c10e83b2703ccf322f7dbd62dd5855ac7c10bd055814ce121ba32607d573b8810c02c0582aed05b4deb9c4b77b26d92428c61256cd42774babea0a073b2ed0c9
+bits: 504365040
+time: 1590308780
+merkle root hash: e17df2500d281c354c82e9996999fb06f2c41594f29d81f712720a4e695f88b4
+Searching for genesis hash...
+nonce: 2899265
+genesis hash: 00000de27864a2af04855007bcd9c64841d2922a6fe71e5ab07bd15663f944e4
